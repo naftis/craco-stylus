@@ -1,0 +1,19 @@
+{
+  "name": "craco-stylus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.7.4",
+    "@types/webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
