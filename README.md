@@ -1,6 +1,6 @@
 # craco-stylus
 
-Stylus plugin for [Craco](https://www.npmjs.com/package/@craco/craco). Allows using Stylus `.styl` files in Create React App 3.0 and also works with TypeScript.
+Stylus plugin for [Craco](https://www.npmjs.com/package/@craco/craco). Allows using Stylus `.styl` files in create-react-app 3.0 and also works with TypeScript.
 
 - CSS Module imports: `import styles from "./App.module.styl";`
 - Global imports: `import "./App.module.styl";`

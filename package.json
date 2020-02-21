@@ -1,13 +1,13 @@
 {
   "name": "craco-stylus",
   "version": "1.0.0",
-  "description": "",
+  "description": "craco-stylus allows to use stylus with create-react-app and Craco",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch"
   },
-  "author": "",
+  "author": "Pyry Rouvila",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^13.7.4",
