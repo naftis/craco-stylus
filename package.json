@@ -1,6 +1,6 @@
 {
   "name": "craco-stylus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "craco-stylus allows to use stylus with create-react-app and Craco",
   "main": "dist/index.js",
   "scripts": {
