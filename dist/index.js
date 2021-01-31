@@ -41,7 +41,7 @@ exports.overrideWebpackConfig = function (_a) {
         {
             loader: require.resolve("stylus-loader"),
             options: {
-                source: shouldUseSourceMap
+                sourceMap: shouldUseSourceMap
             }
         }
     ]; };
